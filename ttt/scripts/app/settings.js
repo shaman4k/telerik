@@ -5,17 +5,17 @@
 var appSettings = {
     
     everlive: {
-        apiKey: '$EVERLIVE_API_KEY$', // Put your Everlive API key here
+        apiKey: 'rZu80oef3BkmKmpQ', // Put your Everlive API key here
         scheme: 'http'
     },
     
     eqatec: {
-        productKey: '$EQATEC_PRODUCT_KEY$',  // Put your EQATEC product key here
+        productKey: '11a344a9f54244419e0841e4e1014e0f',  // Put your EQATEC product key here
         version: '1.0.0.0' // Put your application version here
     },
     
     facebook: {
-        appId: '1408629486049918', // Put your Facebook App ID here
+        appId: '1473995719501266', // Put your Facebook App ID here
         redirectUri: 'https://www.facebook.com/connect/login_success.html' // Put your Facebook Redirect URI here
     },
     
